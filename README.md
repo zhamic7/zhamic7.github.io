@@ -1,2 +1,2 @@
 ﻿# zhamic7.github.io
-root directory for other github pages
+Root directory for other GitHub pages
